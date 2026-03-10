@@ -6,9 +6,11 @@ Vårprojketet
 
 Vecka 9: Vi påbörjar porjketet. Grupp med Alfredo, Arvid, Elias 
 
-Vecka 10: 
+Vecka 10: Utvecklingssamtal
 
-Vecka 11:
+Vecka 11: Idag har vi betsämt färger, typsnitt och gjort en powerpoint styleguide där färgscehma, typsnitt, logotyper etc ska ligga. Vi har även påbörjat att skissa layouten på sidan grovt. 
+
+¨¨
 
 Vecka 12:
 
