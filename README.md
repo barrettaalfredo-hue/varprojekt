@@ -12,7 +12,10 @@ Vecka 11: Idag har vi betsämt färger, typsnitt och gjort en powerpoint stylegu
 
 ¨¨
 
-Vecka 12:
+Vecka 12: Vi har byggt en sitemap. Letat bilder till stylegudie och gjort principer samt Business objektives. Denna lektion tycker jag har varit hyfsatd effektiv. det var lite svårt i början att hitta exkat avd vi skulle gröa men vi löste det.
+
+
+
 
 Vecka 13:
 
