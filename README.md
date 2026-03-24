@@ -17,7 +17,7 @@ Vecka 12: Vi har byggt en sitemap. Letat bilder till stylegudie och gjort princi
 
 
 
-Vecka 13:
+Vecka 13: Idag har vi bestämt namm till webbsidan och vi har gjort wireframes för webbplatsen.
 
 Vecka 14:
 
