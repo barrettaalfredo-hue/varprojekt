@@ -19,7 +19,7 @@ Vecka 12: Vi har byggt en sitemap. Letat bilder till stylegudie och gjort princi
 
 Vecka 13: Idag har vi bestämt namm till webbsidan och vi har gjort wireframes för webbplatsen.
 
-Vecka 14:
+Vecka 14: Idag var det en väldigt bar lektion. Vi har skapat ett github repo och påblrjat filstruktur. Jag har främst jobbat med att gröa vår meny till hemsidan med html 
 
 Vecka 15:
 
