@@ -21,6 +21,6 @@ Vecka 13: Idag har vi bestämt namm till webbsidan och vi har gjort wireframes f
 
 Vecka 14: Idag var det en väldigt bar lektion. Vi har skapat ett github repo och påblrjat filstruktur. Jag har främst jobbat med att gröa vår meny till hemsidan med html 
 
-Vecka 15:
+Vecka 15: Påsklov
 
-Vecka 16:
+Vecka 16: Idag så började jag med att skriva css till min meny sida. Jag kopplade ihop dokumneten och länkade in fonter. Sedan stötte jag på ett stort porblem som tog lång tid att hitta, det var tydligen ett litet stav fel i min html fil vilket gjorde att webbläsraen inte läste min body. 
