@@ -24,3 +24,8 @@ Vecka 14: Idag var det en väldigt bar lektion. Vi har skapat ett github repo oc
 Vecka 15: Påsklov
 
 Vecka 16: Idag så började jag med att skriva css till min meny sida. Jag kopplade ihop dokumneten och länkade in fonter. Sedan stötte jag på ett stort porblem som tog lång tid att hitta, det var tydligen ett litet stav fel i min html fil vilket gjorde att webbläsraen inte läste min body. 
+
+
+
+
+veck 17: Idag har jag gjort färdigt menyn för hemsidan och gjort en ny realese på github med filerna.
