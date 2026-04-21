@@ -28,4 +28,4 @@ Vecka 16: Idag så började jag med att skriva css till min meny sida. Jag koppl
 
 
 
-veck 17: Idag har jag gjort färdigt menyn för hemsidan och gjort en ny realese på github med filerna.
+veck 17: Idag har jag gjort färdigt menyn 90 procent. Det enda som fattas är footer och navbaren som ska in samt lite storlek på font. 
