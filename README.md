@@ -29,3 +29,7 @@ Vecka 16: Idag så började jag med att skriva css till min meny sida. Jag koppl
 
 
 veck 17: Idag har jag gjort färdigt menyn 90 procent. Det enda som fattas är footer och navbaren som ska in samt lite storlek på font. 
+
+vecka 18: Ingen lektion
+
+Vecka 19: Idag så har jag validerat min CSS kod samt min HTML kod, jag har även bett om feedback på min meny sida. Där fick jag konkret feedback som jag kunde använda på min meny sida. Jag ändrade line-height för att få mer luft emellan texten och raderna, la till en rubrik och paragraf gällande allergier, satte priser på rätterna och sist bilder. Bilder har jag tyvärr inte hunnit lägga till än för jag kommer behöva jobba lite med layouten. Det kommer jag få gröa hemma lite. 
