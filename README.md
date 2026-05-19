@@ -35,3 +35,5 @@ vecka 18: Ingen lektion
 Vecka 19: Idag så har jag validerat min CSS kod samt min HTML kod, jag har även bett om feedback på min meny sida. Där fick jag konkret feedback som jag kunde använda på min meny sida. Jag ändrade line-height för att få mer luft emellan texten och raderna, la till en rubrik och paragraf gällande allergier, satte priser på rätterna och sist bilder. Bilder har jag tyvärr inte hunnit lägga till än för jag kommer behöva jobba lite med layouten. Det kommer jag få gröa hemma lite. 
 
 Vecka 20: Idag så har vi börjat med att sammankoppla hela sida. För att sedan kunna validera den med användare. Jag har skapat ett dokuemnt med 4 testmetoder som vi skall göra med personer för att se vilka brister vår hemsida har. 
+
+Vecka 21: Idag så har vi validerat sidan med personer. Vi uförde tester såsam att hitta menyn, boka bord, öppetider osv. Från feedbacken vi fått så har vi börjat ändra på några saker. Jag har också fixat saker på styleguiden.
